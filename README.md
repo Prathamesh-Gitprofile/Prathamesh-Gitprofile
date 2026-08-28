@@ -241,7 +241,7 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 
 <br>
 
-## Contribution Snake
+
 
 ## Contribution Snake
 

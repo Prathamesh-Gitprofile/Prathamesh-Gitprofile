@@ -97,21 +97,6 @@ One of my projects, **FedShield**, was presented at **IEEE ICCUBEA 2026**, and I
 
 ## Featured Projects
 
-<details open>
-<summary><b>🤖 ReviewForge AI</b> — Production-Grade Multi-Agent PR Review Platform</summary>
-<br>
-
-An AI-powered Pull Request review platform that orchestrates multiple specialized agents to automate code review.
-
-| | |
-|:---|:---|
-| **Focus** | Agentic AI / Multi-Agent Systems / DevTools |
-| **Approach** | LangGraph orchestration of Security, Code Quality, Testing & Documentation agents with confidence-weighted Human-in-the-Loop (HITL) routing for high-stakes findings |
-| **Retrieval** | Repository-aware Hybrid RAG (PostgreSQL + pgvector) grounding agent reasoning in historical repo context & coding standards |
-| **Infra** | GitHub Webhooks + Redis queues + event-driven async FastAPI backend, with immutable audit logging & observability |
-| **Stack** | Python • FastAPI • LangGraph • PostgreSQL (pgvector) • Redis • GitHub App API • Groq (Llama 3) |
-
-</details>
 
 <details>
 <summary><b>🧠 DevMind</b> — Context-Aware Debugger & Code Memory <i>(Jan 2026 – Mar 2026)</i></summary>
@@ -306,4 +291,4 @@ open_to:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730A3,50:7C3AED,100:2563EB&height=100&section=footer" alt="footer" width="100%"/>
 </div>
 
-<p align="center"><b>Building with AI. Learning constantly. Building better.</b></p>
+<p align="center"><b>Building with AI. Breaking things. Learning. Building better.</b></p>

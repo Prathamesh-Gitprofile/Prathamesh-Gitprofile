@@ -243,15 +243,15 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 
 ## Contribution Snake
 
+## Contribution Snake
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/gh-pages/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-<br>
 
 ## Currently
 

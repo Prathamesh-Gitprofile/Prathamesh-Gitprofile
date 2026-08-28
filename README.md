@@ -223,18 +223,18 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshn707&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" alt="stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=prathameshn707&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Gitprofile&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" alt="stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Prathamesh-Gitprofile&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" alt="streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshn707&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Gitprofile&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" alt="langs" height="180"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathameshn707&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh-Gitprofile&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 <br>
@@ -242,7 +242,7 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshn707&bg_color=0D1117&color=A78BFA&line=7C3AED&point=c9d1d9&hide_border=true" alt="activity" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-Gitprofile&bg_color=0D1117&color=A78BFA&line=7C3AED&point=c9d1d9&hide_border=true" alt="activity" width="95%"/>
 </div>
 
 <br>
@@ -251,9 +251,9 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshn707/prathameshn707/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshn707/prathameshn707/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/prathameshn707/prathameshn707/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Prathamesh-Gitprofile/Prathamesh-Gitprofile/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 

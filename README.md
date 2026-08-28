@@ -236,10 +236,8 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-Gitprofile&bg_color=0D1117&color=A78BFA&line=7C3AED&point=c9d1d9&hide_border=true" alt="activity" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamesh-Gitprofile&theme=github_dark" alt="Contribution activity" width="95%"/>
 </div>
-
-<br>
 
 
 

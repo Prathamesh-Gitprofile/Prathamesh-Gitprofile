@@ -234,7 +234,7 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 <br>
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh-Gitprofile&theme=discord&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
+ <img src="https://github-profile-trophy-git-master-ronnie.shriram.vercel.app/?username=Prathamesh-Gitprofile&theme=discord&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
 </div>
 
 <br>

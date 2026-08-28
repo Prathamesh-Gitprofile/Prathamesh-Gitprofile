@@ -223,12 +223,12 @@ A computer vision pipeline classifying plastic waste types to support sustainabi
 ## GitHub Analytics
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathamesh-Gitprofile&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prathamesh-Gitprofile&theme=github_dark" alt="GitHub stats" height="180"/>
   <img src="https://streak-stats.demolab.com?user=Prathamesh-Gitprofile&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" alt="streak" height="180"/>
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathamesh-Gitprofile&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" alt="Top languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prathamesh-Gitprofile&theme=github_dark" alt="Top languages" height="180"/>
 </div>
 
 <br>
